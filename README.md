@@ -11,7 +11,7 @@
 
 ## 🎯 Project Overview
 
-**What started as a junior-year class project has evolved into a sophisticated chess engine** that demonstrates advanced programming concepts including artificial intelligence, algorithm design, data analysis, and software architecture. This project showcases the evolution from basic programming to professional-grade software development.
+**This originally was a class project that I improved to be a more a sophisticated chess engine** that demonstrates programming concepts including heuristic-based artificial intelligence, algorithm design, data analysis, and software architecture. This project showcases the evolution from basic programming to professional-grade software development.
 
 ### 🚀 **Key Achievements:**
 - **Intelligent AI Opponent** with multi-factor evaluation system
@@ -166,34 +166,6 @@ public double calculateOverallRating() {
 
 ---
 
-## 💻 Technical Skills Demonstrated
-
-### **Programming Concepts**
-- ✅ **Object-Oriented Design** - Clean class hierarchy and encapsulation
-- ✅ **Algorithm Implementation** - Complex game logic and AI systems
-- ✅ **Data Structures** - Efficient board representation and move storage
-- ✅ **Pattern Recognition** - Tactical and strategic chess patterns
-
-### **Software Engineering**
-- ✅ **Code Architecture** - Modular, maintainable design
-- ✅ **Error Handling** - Comprehensive input validation
-- ✅ **Documentation** - Professional inline and external docs
-- ✅ **Testing Strategy** - Edge case validation and debugging
-
-### **AI & Algorithms**
-- ✅ **Heuristic Evaluation** - Multi-factor decision systems
-- ✅ **Game Theory** - Strategic position assessment
-- ✅ **Pattern Matching** - Tactical opportunity recognition
-- ✅ **Risk Assessment** - Safety and threat evaluation
-
-### **User Experience**
-- ✅ **Interface Design** - Intuitive command-line interface
-- ✅ **Visual Communication** - Clear board representation
-- ✅ **Feedback Systems** - Real-time user guidance
-- ✅ **Accessibility** - Clear instructions and error messages
-
----
-
 ## 🎮 How to Run
 
 ### **Prerequisites**
@@ -241,68 +213,3 @@ java ChessGame --analyze
 - **Documentation**: 100% method documentation
 
 ---
-
-## 🔮 Future Enhancements
-
-### **Planned Features**
-- [ ] **Opening Book Integration** - Database of standard chess openings
-- [ ] **Endgame Tablebase** - Perfect play in simplified positions
-- [ ] **Neural Network AI** - Machine learning-based evaluation
-- [ ] **Multiplayer Support** - Network-based remote play
-- [ ] **Tournament Mode** - Multiple game management
-- [ ] **Graphics Interface** - JavaFX/Swing GUI implementation
-
-### **Technical Improvements**
-- [ ] **Alpha-Beta Pruning** - Enhanced search efficiency
-- [ ] **Zobrist Hashing** - Position caching for speed
-- [ ] **Parallel Processing** - Multi-threaded move evaluation
-- [ ] **Memory Optimization** - Reduced resource usage
-
----
-
-## 📊 Project Evolution
-
-### **Phase 1: Basic Implementation** (Junior Year)
-- Basic chess piece movement
-- Simple text-based interface
-- Random computer opponent
-
-### **Phase 2: Professional Enhancement** (Portfolio Development)
-- Advanced AI with strategic evaluation
-- Professional UI with Unicode pieces
-- Comprehensive error handling and validation
-
-### **Phase 3: Advanced Features** (Current)
-- Game analysis and performance metrics
-- Save/load functionality
-- Real-time AI decision transparency
-
----
-
-## 🏆 What This Project Demonstrates
-
-### **To Employers:**
-1. **Problem-Solving Skills** - Complex game logic implementation
-2. **AI Development** - Strategic decision-making algorithms  
-3. **Software Architecture** - Clean, modular code design
-4. **User Experience** - Intuitive interface design
-5. **Project Evolution** - Continuous improvement mindset
-
-### **Technical Depth:**
-- **Algorithm Design** - Custom evaluation functions
-- **Data Analysis** - Game performance metrics
-- **System Design** - Modular architecture
-- **Quality Assurance** - Comprehensive testing
-
----
-
-## 📞 Contact & Collaboration
-
-**Sam Koscelny**  
-*Software Engineer & Game Developer*
-
-This project represents the evolution from academic exercise to professional software development, showcasing growth in technical skills, software engineering practices, and system design thinking.
-
----
-
-*🎯 Portfolio Highlight: This project demonstrates the ability to take a simple concept and evolve it into a sophisticated system through iterative development, advanced algorithm implementation, and professional software engineering practices.*
